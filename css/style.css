@@ -7,6 +7,7 @@ body{
     width: 300px;
     margin: auto;
     margin-top: 50px; 
+    margin-bottom:10px;
 }
 #Topcalc{
     display: flex;
