@@ -6,6 +6,7 @@ body{
 #allCalc{
     width: 300px;
     margin: auto;
+    margin-top: 20%; 
 }
 #Topcalc{
     display: flex;
